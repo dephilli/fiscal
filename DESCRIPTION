@@ -1,0 +1,10 @@
+Package: fiscal
+Type: Package
+Title: Builds a package
+Version: 0.2.0
+Author: Who wrote it
+Maintainer: David Phillips (david.phillips@alaska.gov)
+Description: Just trying to learn 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
