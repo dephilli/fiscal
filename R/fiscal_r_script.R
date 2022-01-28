@@ -10,6 +10,6 @@ fy_start<-function(y){
 }
 
 fy_end<-function(y){
-  fy_end<-as.Date(paste0(yr,"-06-30"))
+  fy_end<-as.Date(paste0(yr,"-07-30"))
   return(fy_end)
 }
