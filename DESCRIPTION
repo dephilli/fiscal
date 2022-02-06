@@ -3,7 +3,7 @@ Type: Package
 Title: Builds a package
 Version: 0.2.0
 Author: Who wrote it
-Maintainer: David Phillips (david.phillips@alaska.gov)
+Maintainer: David Phillips <david.phillips@alaska.gov>
 Description: Just trying to learn 
 License: None; 
 Encoding: UTF-8

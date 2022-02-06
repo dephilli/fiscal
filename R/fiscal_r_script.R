@@ -5,11 +5,11 @@ fiscal<-function(d){
 }
 
 fy_start<-function(y){
-  fy_start<-as.Date(paste0(yr-1,"-07-01"))
+  fy_start<-as.Date(paste0(y-1,"-07-01"))
   return(fy_start)
 }
 
 fy_end<-function(y){
-  fy_end<-as.Date(paste0(yr,"-06-30"))
+  fy_end<-as.Date(paste0(y,"-06-30"))
   return(fy_end)
 }
